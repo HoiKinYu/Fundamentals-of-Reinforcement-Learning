@@ -10,4 +10,4 @@ This course introduces the fundamentals of Reinforcement Learning:
 
 Source: https://www.coursera.org/learn/fundamentals-of-reinforcement-learning
 
-<img src='image/Certificate Fundamentals of Reinforcement Learning.pdf'/>
+<img src='image/Certificate Fundamentals of Reinforcement Learning.png'/>

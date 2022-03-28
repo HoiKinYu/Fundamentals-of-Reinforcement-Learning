@@ -11,3 +11,14 @@ This course introduces the fundamentals of Reinforcement Learning:
 Source: https://www.coursera.org/learn/fundamentals-of-reinforcement-learning
 
 <img src='image/Certificate Fundamentals of Reinforcement Learning.png'/>
+
+## Summary of Practical Assignments
+### Assignment-1 Bandits and Exploration or Exploitation
+- the ***effect of epsilon, an exploration parameter***, on the performance of an agent
+- the ***effect of step size*** on the performance of the agent
+- a good experiment ***practice of averaging across multiple runs***
+
+### Assignment-2 Optimal Policies with Dynamic Programming
+- ***policy evaluation*** and ***policy improvement***
+- ***policy iteration*** and ***value iteration***
+- ***Bellman updates***
